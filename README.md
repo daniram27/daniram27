@@ -4,9 +4,13 @@ I'm **Dani Ramadhan**.
 
 I'm a Student at Universitas Negeri Surabaya, currently majoring at Informatics Engineering.
 
-Get to know me at my [Linkedin](https://www.linkedin.com/in/dani-ramadhan/).
+---
 
-Thank you!
+<h3 align="center">Find me!</h3>
+<p align="center">
+<img alt="Linkedin Badge" src="https://img.shields.io/badge/-Dani Ramadhan-cyan?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/dani-ramadhan/" >
+<img alt="Instagram Badge" src="https://img.shields.io/badge/-daniramadhan27-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/daniramadhan27">
+
 
 <p align="left">
 <a href="https://github.com/daniram27">
